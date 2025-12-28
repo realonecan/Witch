@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/Hero.png" alt="Witch Logo" width="120"/>
+<img src="docs/images/logo.png" alt="Witch Logo" width="120"/>
 
 # [Witch](https://github.com/yourusername/witch) - AI Data Analyst
 
@@ -190,7 +190,7 @@ witch/
 
 This repository is for viewing purposes only. Commercial use, copying, modification, or distribution requires explicit written permission and a paid license.
 
-For licensing inquiries: [your-email@example.com]
+For licensing inquiries: humaninbinary@gmail.com
 
 ---
 
