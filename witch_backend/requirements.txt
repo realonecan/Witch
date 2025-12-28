@@ -1,0 +1,27 @@
+# FastAPI & Server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# File uploads
+python-multipart==0.0.18
+
+# Data processing
+pandas==2.2.3
+numpy==2.2.1
+openpyxl==3.1.5
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+plotly==5.24.1
+
+# Configuration
+pydantic-settings==2.7.0
+
+# OpenAI
+openai==1.58.1
+
+# Database
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+
